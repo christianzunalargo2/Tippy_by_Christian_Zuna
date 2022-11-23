@@ -5,4 +5,4 @@ to describe how you feel about the service received and tip.
 
 ---
 
-![](./images/screen_shot1.png)
+![](./images/screenshot2.png)
